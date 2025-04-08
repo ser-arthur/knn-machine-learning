@@ -55,7 +55,7 @@ The goal was to:
 
 ## How to View
 
-You can explore the notebook directly on GitHub, in JupyterNotebook or [View via nbviewer](https://nbviewer.org/github/ser-arthur/knn-machine-learning/blob/main/kNN-thief-zone-classifier.ipynb).
+You can explore the notebook directly on GitHub, in JupyterNotebook or [View via nbviewer](https://nbviewer.org/github/ser-arthur/knn-machine-learning/blob/main/knn-thief-zone-classifier.ipynb).
 
 ---
 
