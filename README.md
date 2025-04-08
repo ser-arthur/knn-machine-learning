@@ -3,7 +3,7 @@
 This project applies the K-Nearest Neighbours (KNN) machine learning algorithm to classify a suspected thief zone in the Lismore field using petrophysical data.
 
 A **thief zone** is a high-permeability interval that may divert injected fluids away from productive reservoir zones due to its superior flow capacity. Accurately identifying such zones is critical in reservoir management and enhanced oil recovery.
-
+The goal was to define a clear classification criteria using geological insight and statistical thresholds, then apply a supervised kNN model to evaluate the test zone.
 ---
 
 ## Project Structure
